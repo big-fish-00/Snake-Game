@@ -1,0 +1,2 @@
+# Snake-Game
+This is a simple python game which is playing snake game. This game has been a staple of the gaming world since the 1980s. The aim of the game is to navigate an incarnation on the screen without touching walls or your own tail. Each incarnation starts with one unit of length and the player grows the body by eating apples scattered around the playing field. If the toy mishandles the snake and lets its head hit the body, the game is over.
